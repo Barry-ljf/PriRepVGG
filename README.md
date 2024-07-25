@@ -1,2 +1,4 @@
 Look Here!
-The code has moved to a new repository: SICNN:  https://github.com/Barry-ljf/SICNN
+The code will be moved to a newcoming repository: SICNN:  https://github.com/Barry-ljf/SICNN
+Just wait!
+welcome to contact me！
